@@ -1,0 +1,123 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Again n Again",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Anim eiusmod anim labore ad tempor elit enim sint ipsum dolore irure consequat sit sint. Ut reprehenderit.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"sections": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "figma",
+									"type": "Select"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "npm"
+								}
+							]
+						],
+						"key": "5025d4aa-fad1-47c8-af50-d7cd581451b7"
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "github"
+								}
+							]
+						],
+						"key": "a21af091-46a2-4f4f-97de-850871526415"
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "cloudflare"
+								}
+							]
+						],
+						"key": "0b6c5d3b-ca69-4406-80c1-1ce4e461c9ef"
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "digitalocean"
+								}
+							]
+						],
+						"key": "f873a471-fc4e-4903-a95b-e49937ccab71"
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "fly"
+								}
+							]
+						],
+						"key": "f862d3f0-ce67-4708-a6ca-bfc948ecac67"
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

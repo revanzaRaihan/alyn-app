@@ -1,0 +1,30 @@
+import { createClient } from "@/prismicio";
+import WordMark from "./WordMark";
+import { list } from "postcss";
+import { PrismicNextLink } from "@prismicio/next";
+import Link from "next/link";
+
+export default async function Footer() {
+  const client = createClient();
+  const settings = await client.getSingle("settings");
+
+  return(
+    <footer className="flex flex-col items-center justify-between gap-6 border-t border-slate-600 px-8 py-7 md:flex-row">
+        <Link href="/">
+        <WordMark/>
+        <span className="sr-only">Alyn-App Homepage</span>
+        </Link>
+        <nav aria-label="Footer">
+            <ul className="flex gap-6">
+                {settings.data.navigations.map((item)=>(
+                    <li key={item.label}>
+                        <PrismicNextLink field={item.link} className="inline-flex min-h-11 items-center">
+                            {item.label}
+                        </PrismicNextLink>
+                    </li>
+                ))}
+            </ul>
+        </nav>
+    </footer>
+  )
+}

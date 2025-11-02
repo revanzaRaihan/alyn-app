@@ -1,0 +1,198 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"icon": {
+				"__TYPE__": "FieldContent",
+				"type": "Select",
+				"value": "Gear"
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "Design the next big thing.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Tempor ex cupidatat ut laborum ipsum mollit pariatur tempor reprehenderit irure Lorem ex. Duis.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"button_link": {
+				"key": "f814da97-7143-40cf-97a2-4bd0a884bb14",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "religious"
+				}
+			},
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Your Glisten.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Your workflow.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Get Started"
+			},
+			"image": {
+				"provider": "imgix",
+				"url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxnYW1lfGVufDB8fHx8MTc2MjAxNjkwMnww&ixlib=rb-4.1.0&q=85",
+				"alt": "vintage gray game console and joystick",
+				"origin": {
+					"id": "p0j-mE6mGo4",
+					"url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxnYW1lfGVufDB8fHx8MTc2MjAxNjkwMnww&ixlib=rb-4.1.0&q=85",
+					"width": 6048,
+					"height": 4032
+				},
+				"width": 6048,
+				"height": 4032,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "reverse",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Mightyest",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Foxianaa",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"icon": {
+				"__TYPE__": "FieldContent",
+				"value": "Gear",
+				"type": "Select"
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "Contain"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Consectetur ipsum laborum laborum magna voluptate incididunt nostrud nostrud magna sunt.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "term",
+				"type": "Text"
+			},
+			"button_link": {
+				"key": "8a7684d2-7d0f-41c8-8d04-d54e6024eacc",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com",
+					"text": "development"
+				}
+			},
+			"image": {
+				"__TYPE__": "ImageContent",
+				"provider": "imgix",
+				"url": "https://images.unsplash.com/photo-1544652478-6653e09f18a2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyN3x8Z2FtaW5nfGVufDB8fHx8MTc2MjAxODcxOHww&ixlib=rb-4.1.0&q=85",
+				"alt": "person using desktop computer",
+				"origin": {
+					"id": "WcrqKjgMPfI",
+					"url": "https://images.unsplash.com/photo-1544652478-6653e09f18a2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyN3x8Z2FtaW5nfGVufDB8fHx8MTc2MjAxODcxOHww&ixlib=rb-4.1.0&q=85",
+					"width": 6000,
+					"height": 4000
+				},
+				"width": 6000,
+				"height": 4000,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"thumbnails": {}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

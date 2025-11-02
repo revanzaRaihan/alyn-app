@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Duis adipisicing cillum deserunt nulla officia velit elit non qui et. Incididunt consectetur aliquip laboris pariatur duis mollit ipsum enim consectetur laborum labore ea irure. Aliqua duis mollit id ea veniam eu ipsum officia minim do quis anim eiusmod ea labore."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
